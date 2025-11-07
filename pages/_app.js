@@ -1,4 +1,4 @@
-import "@/styles/globals.css";
+import "../styles/globals.css";
 import { Cormorant_Garamond, Great_Vibes } from "next/font/google";
 
 const garamond = Cormorant_Garamond({ subsets: ["latin"], weight: ["400", "700"] });

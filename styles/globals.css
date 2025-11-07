@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #faf3e0;
+  background-image: url("/paper-texture.png");
+  background-repeat: repeat;
+}
+
+html {
+  scroll-behavior: smooth;
+}
